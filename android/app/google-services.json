@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293093629147",
+    "firebase_url": "https://findcontent.firebaseio.com",
+    "project_id": "findcontent",
+    "storage_bucket": "findcontent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293093629147:android:6706866b87d649bff080fe",
+        "android_client_info": {
+          "package_name": "com.findwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293093629147-m1f1nlkicib81utq21i38t6ard4lcq0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrU39f7CILQmzWGWMAGYiJRZiob7D33gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293093629147-m1f1nlkicib81utq21i38t6ard4lcq0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
